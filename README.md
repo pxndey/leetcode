@@ -21,6 +21,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/pxndey/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/pxndey/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pxndey/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1791-richest-customer-wealth](https://github.com/pxndey/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1961-maximum-ice-cream-bars](https://github.com/pxndey/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2058-concatenation-of-array](https://github.com/pxndey/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pxndey/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -202,4 +203,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/pxndey/leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/pxndey/leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
