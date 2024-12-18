@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/pxndey/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pxndey/leetcode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/pxndey/leetcode/tree/master/0228-summary-ranges) |
+| [1580-shuffle-the-array](https://github.com/pxndey/leetcode/tree/master/1580-shuffle-the-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pxndey/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pxndey/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pxndey/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
