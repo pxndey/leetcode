@@ -14,6 +14,7 @@
 | [0940-fruit-into-baskets](https://github.com/pxndey/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1580-shuffle-the-array](https://github.com/pxndey/leetcode/tree/master/1580-shuffle-the-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pxndey/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1961-maximum-ice-cream-bars](https://github.com/pxndey/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pxndey/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pxndey/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/pxndey/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/pxndey/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pxndey/leetcode/tree/master/0169-majority-element) |
+| [1961-maximum-ice-cream-bars](https://github.com/pxndey/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pxndey/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -157,4 +159,12 @@
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/pxndey/leetcode/tree/master/0491-non-decreasing-subsequences) |
+## Greedy
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/pxndey/leetcode/tree/master/1961-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/pxndey/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
