@@ -19,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/pxndey/leetcode/tree/master/0125-valid-palindrome) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pxndey/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pxndey/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/pxndey/leetcode/tree/master/0125-valid-palindrome) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pxndey/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
