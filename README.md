@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pxndey/leetcode/tree/master/0001-two-sum) |
+| [0057-insert-interval](https://github.com/pxndey/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/pxndey/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pxndey/leetcode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/pxndey/leetcode/tree/master/0228-summary-ranges) |
