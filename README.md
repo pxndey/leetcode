@@ -17,6 +17,7 @@
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/pxndey/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pxndey/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/pxndey/leetcode/tree/master/1580-shuffle-the-array) |
+| [1635-number-of-good-pairs](https://github.com/pxndey/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pxndey/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1961-maximum-ice-cream-bars](https://github.com/pxndey/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pxndey/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -33,6 +34,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/pxndey/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/pxndey/leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/pxndey/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1635-number-of-good-pairs](https://github.com/pxndey/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pxndey/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/pxndey/leetcode/tree/master/2502-sort-the-people) |
 ## String
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pxndey/leetcode/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/pxndey/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pxndey/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
@@ -83,6 +86,7 @@
 | [0319-bulb-switcher](https://github.com/pxndey/leetcode/tree/master/0319-bulb-switcher) |
 | [0956-number-of-music-playlists](https://github.com/pxndey/leetcode/tree/master/0956-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/pxndey/leetcode/tree/master/1013-fibonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/pxndey/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
