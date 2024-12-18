@@ -13,6 +13,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pxndey/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0491-non-decreasing-subsequences](https://github.com/pxndey/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0940-fruit-into-baskets](https://github.com/pxndey/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/pxndey/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/pxndey/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pxndey/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/pxndey/leetcode/tree/master/1580-shuffle-the-array) |
