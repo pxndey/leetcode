@@ -58,6 +58,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/pxndey/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pxndey/leetcode/tree/master/0009-palindrome-number) |
+| [0319-bulb-switcher](https://github.com/pxndey/leetcode/tree/master/0319-bulb-switcher) |
 | [0956-number-of-music-playlists](https://github.com/pxndey/leetcode/tree/master/0956-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/pxndey/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -121,4 +122,8 @@
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/pxndey/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/pxndey/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/pxndey/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
