@@ -43,4 +43,20 @@
 | ------- |
 | [0075-sort-colors](https://github.com/pxndey/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pxndey/leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/pxndey/leetcode/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/pxndey/leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/pxndey/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/pxndey/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
