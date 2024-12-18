@@ -56,10 +56,12 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/pxndey/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pxndey/leetcode/tree/master/0009-palindrome-number) |
+| [0956-number-of-music-playlists](https://github.com/pxndey/leetcode/tree/master/0956-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/pxndey/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0956-number-of-music-playlists](https://github.com/pxndey/leetcode/tree/master/0956-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/pxndey/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pxndey/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Combinatorics
+|  |
+| ------- |
+| [0956-number-of-music-playlists](https://github.com/pxndey/leetcode/tree/master/0956-number-of-music-playlists) |
 <!---LeetCode Topics End-->
