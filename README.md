@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pxndey/leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/pxndey/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pxndey/leetcode/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pxndey/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -12,6 +13,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pxndey/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pxndey/leetcode/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pxndey/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
