@@ -20,6 +20,7 @@
 | [1635-number-of-good-pairs](https://github.com/pxndey/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pxndey/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1961-maximum-ice-cream-bars](https://github.com/pxndey/leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pxndey/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pxndey/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pxndey/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/pxndey/leetcode/tree/master/2502-sort-the-people) |
@@ -44,6 +45,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/pxndey/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/pxndey/leetcode/tree/master/0567-permutation-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pxndey/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pxndey/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/pxndey/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/pxndey/leetcode/tree/master/2502-sort-the-people) |
 ## Counting
@@ -63,6 +65,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pxndey/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pxndey/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
