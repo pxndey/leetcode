@@ -23,6 +23,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pxndey/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/pxndey/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1961-maximum-ice-cream-bars](https://github.com/pxndey/leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/pxndey/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2048-build-array-from-permutation](https://github.com/pxndey/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/pxndey/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pxndey/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -90,6 +91,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pxndey/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pxndey/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/pxndey/leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/pxndey/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2502-sort-the-people](https://github.com/pxndey/leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pxndey/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -118,6 +120,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/pxndey/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pxndey/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Combinatorics
 |  |
@@ -180,6 +183,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/pxndey/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/pxndey/leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/pxndey/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/pxndey/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -194,6 +198,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pxndey/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pxndey/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1961-maximum-ice-cream-bars](https://github.com/pxndey/leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/pxndey/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting Sort
 |  |
 | ------- |
@@ -206,6 +211,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/pxndey/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/pxndey/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
