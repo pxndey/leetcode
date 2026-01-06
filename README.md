@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pxndey/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pxndey/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0057-insert-interval](https://github.com/pxndey/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/pxndey/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pxndey/leetcode/tree/master/0169-majority-element) |
@@ -68,6 +69,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pxndey/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/pxndey/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/pxndey/leetcode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/pxndey/leetcode/tree/master/0567-permutation-in-string) |
